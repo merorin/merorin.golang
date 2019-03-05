@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gopl/chapter2/tempconv"
+	"merorin.golang/gopl/chapter2/tempconv"
 	"os"
 	"strconv"
 )
